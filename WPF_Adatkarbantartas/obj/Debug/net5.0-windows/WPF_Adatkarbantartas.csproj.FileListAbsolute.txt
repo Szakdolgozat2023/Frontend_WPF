@@ -1,0 +1,509 @@
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Login.g.cs
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Login.baml
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\szabo\OneDrive\Dokumentumok\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Login.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Login.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.baml
+C:\Users\szabo\OneDrive\Asztali gép\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.baml
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.baml
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.g.cs
+C:\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.baml
+C:\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\users.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\users.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\users.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl3.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\filmezz.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\filmezz.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\filmezz.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\users.png
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.exe
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\avatar.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\filmezz.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\homeimg.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\key.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\login.jpg
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\user.ico
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Images\users.png
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.deps.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.runtimeconfig.dev.json
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\ButtonStyles.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_Content.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas_MarkupCompile.lref
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\FilmsControl.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\HomeWindow.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Login.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Users.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Felhasznalok.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\Windows\Filmek.baml
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.g.resources
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfoInputs.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.AssemblyInfo.cs
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.csproj.CopyComplete
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\refint\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.pdb
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\WPF_Adatkarbantartas.genruntimeconfig.cache
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\ref\WPF_Adatkarbantartas.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Szabó Szabolcs\Documents\VizsgaProjekt_WPF+BackEnd\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\Filmezz_WPF_Projekt\WPF_Adatkarbantartas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
